@@ -155,3 +155,4 @@ The service is pre-configured for **Railway** or **Render** using the provided `
 Once running, visit:
 *   **Swagger UI**: `http://localhost:8000/docs`
 *   **ReDoc**: `http://localhost:8000/redoc`
+# levr-backend
